@@ -1,0 +1,37 @@
+{
+  "name": "coffee-next",
+  "version": "1.0.0",
+  "description": "Small app buildt with Next.js",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoseCrz/coffee-next.git"
+  },
+  "keywords": [
+    "JS",
+    "JavaScript",
+    "Next",
+    "NextJS",
+    "Vercel",
+    "TS",
+    "TypeScript",
+    "React"
+  ],
+  "author": "José Cuevas <josecueram@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JoseCrz/coffee-next/issues"
+  },
+  "homepage": "https://github.com/JoseCrz/coffee-next#readme",
+  "dependencies": {
+    "next": "^10.0.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "standard": "^16.0.1"
+  }
+}
